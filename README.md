@@ -8,3 +8,7 @@ Projeto completo da turma de fullstack
 
 - [@raphaelrodriguesdev](https://github.com/RaphaelRodriguesDev)
 
+## Description
+- Neste repositório ensino tudo sobre fullstack 
+
+
